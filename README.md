@@ -81,3 +81,7 @@ Your instructional team will provide support during classes and office hours. Yo
 11. The query from step 6 is run on the parquet temporary table, and the run time is computed. (10 points)
 
 12. The "home_sales" temporary table is uncached and verified. (10 points)
+
+
+
+Tools used to complete this module: Google, Colab, Stack overflow, built in Gemini to fix an error, Study group, Class mates 
